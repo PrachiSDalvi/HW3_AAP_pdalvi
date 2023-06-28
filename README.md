@@ -42,3 +42,8 @@ Project Organization
 --------
 
 <p><small>Project based on a simplified version of the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+
+
+As part of HW3, I tried to get an understanding of computer vision and Natural Language Processing using python's library opencv and nltk respectively. I have created 2 different .ipynb files for each of the libraries and placed them in the notebook folder of the hw3_app_pdalvi.
